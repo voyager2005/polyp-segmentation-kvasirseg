@@ -12,7 +12,7 @@ This repository contains the code, models, and research documentation for automa
 
 **Read the Full Paper:** Click the thumbnail below to view the full research paper directly in GitHub's native PDF viewer.
 
-[![Paper Thumbnail](readmeimages/tumbnailimage.png)](datacentric_polyp_segmentation.pdf)  
+[![Paper Thumbnail](readme/images/thumbnail.png)](datacentric_polyp_segmentation.pdf)  
 
 ## Methodology & Architecture
 * **Task:** Semantic Segmentation
