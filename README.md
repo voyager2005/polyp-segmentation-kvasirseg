@@ -26,9 +26,9 @@ The model was evaluated using standard segmentation metrics:
 * **Intersection over Union (IoU):** `0.9115`
 
 ### Visual Predictions
-| Original Image | Ground Truth Mask | Model Prediction |
-| :---: | :---: | :---: |
-| <img src="readme/images/originalimage.png" width="200"/> | <img src="readme/images/mask.png" width="200"/> | <img src="readme/images/pred.png" width="200"/> |
+| Original Image | Ground Truth Mask | Modified Mask | Model Prediction |
+| :---: | :---: | :---: | :---: |
+| <img src="readme/images/original.png" width="200"/> | <img src="readme/images/mask.png" width="200"/> | <img src="readme/images/modmask.png" width="200"/> | <img src="readme/images/pred.png" width="200"/> |
 
 ## ⚙️ Installation & Usage
 
